@@ -1,4 +1,4 @@
-# BufferMask.anm
+# BufferMask
 ## 導入方法
 1. AviUtlの拡張機能（[exedit](https://spring-fragrance.mints.ne.jp/aviutl/)）を導入する
 2. `exedit.auf`と同じディレクトリ内に、`script`フォルダを作成する
